@@ -11,4 +11,7 @@
  $ git status
 【查看修改内容】
  $ git diff
-  
+【历史版本之间穿梭】
+ git reset --hard commit_id
+ git log 【查看提交历史 寻找穿梭版本commit_id】
+ git reflog  【查看命令历史  寻找穿梭版本commit_id】
