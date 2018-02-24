@@ -1,0 +1,4 @@
+1、file_input_id
+2、form_id  表单id
+3、bid
+4、excel导入id    excel_import__id  (go)
