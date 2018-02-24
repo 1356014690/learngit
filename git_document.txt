@@ -9,4 +9,6 @@
 第二步  $ git commit -m "注释"
 【查看仓库当前状态】
  $ git status
+【查看修改内容】
+ $ git diff
   
