@@ -15,5 +15,6 @@
  git reset --hard commit_id
  git log 【查看提交历史 寻找穿梭版本commit_id】
  git reflog  【查看命令历史  寻找穿梭版本commit_id】
+ 【撤销修改】
  【丢弃工作区的修改】  git checkout -- file
  【丢弃暂存区的修改】  git reset --hard HEAD 
