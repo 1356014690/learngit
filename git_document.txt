@@ -7,10 +7,8 @@
 【在创建的目录或者子目录下添加文件】
 第一步  $ git add <file>   【可连续使用添加多个文件】、
 第二步  $ git commit -m "注释"
-【查看仓库当前状态】
- $ git status
-【查看修改内容】
- $ git diff
+【查看仓库当前状态】 $ git status
+【查看修改内容】  $ git diff
 【历史版本之间穿梭】
 	git reset --hard commit_id
 	git log 【查看提交历史 寻找穿梭版本commit_id】
@@ -26,3 +24,6 @@
 				   git push -u origin master    【第一次推送master分支的所有内容】
 				   git push origin master       【推送最新修改】
 	  【克隆远程库】git clone git@github.com:【账户名】/【项目名】.git
+ 【分支管理】
+	【创建与合并分支】
+		
