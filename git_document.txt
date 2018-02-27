@@ -32,3 +32,4 @@
 	【解决冲突】	git log --graph 【插件按分支合并图】
 	【分支管理策略】
 		$ git merge --no-ff -m "merge with no-ff" dev  【--no-ff参数，表示禁用Fast forward】
+	【Feature分支】git branch -D <name>强行删除
